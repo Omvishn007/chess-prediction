@@ -1,0 +1,17 @@
+names:
+  0: .
+  1: K
+  2: Q
+  3: R
+  4: B
+  5: N
+  6: P
+  7: k
+  8: q
+  9: r
+  10: b
+  11: n
+  12: p
+nc: 13
+train: C:/Users/omvis/chess_prediction_project/YOLO_dataset/images/train
+val: C:/Users/omvis/chess_prediction_project/YOLO_dataset/images/val
